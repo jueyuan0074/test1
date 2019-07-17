@@ -3,3 +3,5 @@ message
 
 clone_message
 12345
+
+message2
