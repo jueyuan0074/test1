@@ -5,3 +5,6 @@ clone_message
 12345
 
 message2
+
+
+clone_message2
